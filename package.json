@@ -10,7 +10,7 @@
     "express": "4.14.0",
     "firebase": "3.0.4",
     "request": "2.72.0",
-    "ejs": "3.0.1"
+    "ejs": "3.1.10"
   },
   "keywords": [],
   "author": "",
